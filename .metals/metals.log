@@ -1,0 +1,33 @@
+2020.09.17 12:55:27 INFO  started: Metals version 0.9.3 in workspace '/h/d8/u/ca1734ma-s/pgk/irritext' for client vscode.
+2020.09.17 12:55:28 INFO  time: initialize in 1.36s
+2020.09.17 12:55:29 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 12:55:29 INFO  no build target: using presentation compiler with only scala-library
+2020.09.17 12:55:31 WARN  no build target for: /h/d8/u/ca1734ma-s/pgk/irritext/game.scala
+something's wrong: no file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala in Array[<error>]RangePosition(file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala, 37, 37, 52)
+something's wrong: no file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala in Array[<error>]RangePosition(file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala, 37, 37, 45)
+something's wrong: no file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala in Array[String]RangePosition(file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala, 37, 37, 50)
+something's wrong: no file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala in Array[String]RangePosition(file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala, 37, 37, 50)
+something's wrong: no file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala in Array[String]RangePosition(file:///h/d8/u/ca1734ma-s/pgk/irritext/game.scala, 37, 37, 50)
+Sep 17, 2020 12:59:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.09.17 13:02:05 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:02:53 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:02:53 WARN  no build target for: /h/d8/u/ca1734ma-s/pgk/irritext/game.scala
+2020.09.17 13:06:56 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:06:56 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:06:56 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:06:59 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:06:59 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:07:47 WARN  no build target for: /h/d8/u/ca1734ma-s/pgk/irritext/game.scala
+2020.09.17 13:09:05 WARN  no build target for: /h/d8/u/ca1734ma-s/pgk/irritext/game.scala
+2020.09.17 13:09:42 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:09:42 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:09:44 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:10:01 WARN  no build target for: /h/d8/u/ca1734ma-s/pgk/irritext/game.scala
+2020.09.17 13:10:04 WARN  no build target for: /h/d8/u/ca1734ma-s/pgk/irritext/game.scala
+2020.09.17 13:10:23 WARN  no build target for: /h/d8/u/ca1734ma-s/pgk/irritext/game.scala
+2020.09.17 13:10:34 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:10:34 WARN  no build target for: /h/d8/u/ca1734ma-s/pgk/irritext/game.scala
+2020.09.17 13:10:34 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:10:34 WARN  no build tool detected in workspace '/h/d8/u/ca1734ma-s/pgk/irritext'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.17 13:14:24 WARN  no build target for: /h/d8/u/ca1734ma-s/pgk/irritext/game.scala
