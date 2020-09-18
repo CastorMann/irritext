@@ -1,4 +1,4 @@
-import scala.io.StdIn.readInt
+import scala.io.StdIn.readLine
 import scala.util.Random
 import scala.util.control.Breaks._
 object Irritext {
@@ -13,9 +13,9 @@ object Irritext {
         while (true) {
 
             println(s"If the number $a is the number $b, then what is the number ${Random.nextInt(10)}!? ")
-            var guess = readInt()
+            var guess = readLine()
 
-            if (guess == a) {
+            if (guess == a.toString()) {
 
                 println(s"Correct... Your score is $score points.")
                 break
